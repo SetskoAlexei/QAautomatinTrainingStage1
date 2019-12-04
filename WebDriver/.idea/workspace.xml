@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e6961d1e-6605-4344-9677-09acde4b7529" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="automation-training-stage1" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/apache-maven-3.6.1" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1T22ZP7fwYCOXRX8F0K254e2GU8" />
+  <component name="PropertiesComponent">
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="io" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.EstimatedTest">
+    <configuration name="GoogleCloudPricingCalculatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WebDriver.HurtMePlenty.test.GoogleCloudPricingCalculatorTest" />
+      <module name="WebDriver" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;D:\automation-training-stage1\data&quot;" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WebDriver.HurtMePlenty.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WebDriver.Hardcore.Test.Test" />
+      <module name="WebDriver" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;D:\automation-training-stage1\data&quot;" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WebDriver.Hardcore.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="io.Music" />
+      <module name="WebDriver" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;D:\automation-training-stage1\data&quot;" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EstimatedTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WebDriver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WebDriver.Hardcore.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WebDriver.Hardcore.Test" />
+      <option name="MAIN_CLASS_NAME" value="WebDriver.Hardcore.Test.EstimatedTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoogleCloudPricingCalculatorTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WebDriver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WebDriver.HurtMePlenty.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WebDriver.HurtMePlenty.test" />
+      <option name="MAIN_CLASS_NAME" value="WebDriver.HurtMePlenty.test.GoogleCloudPricingCalculatorTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PastebinTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WebDriver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WebDriver.BringItOn.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WebDriver.BringItOn.Test" />
+      <option name="MAIN_CLASS_NAME" value="WebDriver.BringItOn.Test.PastebinTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.GoogleCloudPricingCalculatorTest" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="TestNG.PastebinTest" />
+      <item itemvalue="TestNG.GoogleCloudPricingCalculatorTest" />
+      <item itemvalue="TestNG.EstimatedTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.EstimatedTest" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="TestNG.GoogleCloudPricingCalculatorTest" />
+        <item itemvalue="Application.GoogleCloudPricingCalculatorTest" />
+        <item itemvalue="TestNG.PastebinTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6961d1e-6605-4344-9677-09acde4b7529" name="Default Changelist" comment="" />
+      <created>1572643925828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572643925828</updated>
+    </task>
+    <servers />
+  </component>
+</project>
